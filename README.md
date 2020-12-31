@@ -1,5 +1,5 @@
 # TD Mutual Fund Investment Database Design
-### A database design and build for TD Mutual Find Investments
+### A database design and build for TD Mutual Fund Investments
 
 This repository contains the ERD design and database build using MS Access for the TD Mutual Fund Investment Form.
 
